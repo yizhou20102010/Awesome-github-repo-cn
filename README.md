@@ -55,7 +55,7 @@ Python技术书籍[https://github.com/jobbole/awesome-python-books](https://gith
 
 ### 运动控制
 
-[机器人书籍、课程及其他资源](https://github.com/kiloreux/awesome-robotics)
+机器人书籍、课程及其他资源 [https://github.com/kiloreux/awesome-robotics](https://github.com/kiloreux/awesome-robotics)
 
 [**Robotics Library**:](https://www.roboticslibrary.org/) 机器人库(RL)是一个自包含的c++库，用于机器人运动学、运动规划和控制。它涵盖了数学、运动学和动力学、硬件抽象、运动规划、碰撞检测和可视化。
 
